@@ -8,9 +8,9 @@ Main Files:
 - style.css (client webpage design)
 - function.js (communication functions for client-server)
 - test.js (unit test 1)
-- unit-test1.js
+- unit-test-interpreter.js
 - test.js (unit test 2)
-- unit-test2.js
+- unit-test-decoder.js
 - package.json (install dependencies)
 
 # Arduino
