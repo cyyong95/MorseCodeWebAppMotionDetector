@@ -1,0 +1,20 @@
+{
+  "name": "task1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "function.js",
+  "dependencies": {
+    "johnny-five": "^0.10.6",
+    "express": "^4.9.8",
+    "socket.io": "~1.1.0",
+    "mocha": "^3.2.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yong chun yu, daniel deepak david",
+  "license": "ISC"
+}

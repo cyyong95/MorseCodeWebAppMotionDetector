@@ -1,0 +1,39 @@
+h1 {
+    color: white;
+    background: purple;
+    padding: 60px 0;
+    font-size: 70px;
+}
+h2 {
+    padding: 15px;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+/* Class styling */
+.wrapper {
+    width: 500px;
+    margin: 0 auto;
+}
+
+.textbox {
+    float: left;
+}
+
+.counter {
+    float: right;
+}
+
+.panel-group .panel + .panel {
+    margin-top:0;
+}
+
+/* ID styling */
+#led-toggle {
+	float:right;
+}
+
+#motion-toggle {
+	float:right;
+}
